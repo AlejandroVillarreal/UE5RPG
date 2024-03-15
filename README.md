@@ -10,10 +10,4 @@ The purpose of this project was to learn ahd develop a game using c++ and unreal
 * Enemy AI
 * InGame HUD
 
-## Features
-* Different weapons
-* Destructible actors
-* State machine driven animations, montages and blendspaces
-* Character attributes such as health, stamina and collectibles
-* Enemy AI
-* InGame HUD
+## Screenshots
