@@ -9,4 +9,5 @@ The purpose of this project was to learn ahd develop a game using c++ and unreal
 * Character attributes such as health, stamina and collectibles
 * Enemy AI
 * InGame HUD
+
 ##Screenshots
