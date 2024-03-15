@@ -11,6 +11,6 @@ The purpose of this project was to learn ahd develop a game utilizing c++ and Un
 * In-Game HUD
 
 ## Screenshots
-<img src="/images/Screenshot2.png" width="1920" height="895">
+<img src="/images/Screenshot2.png" width="960" height="448">
 <img src="/images/Screenshot3.png" width="1920" height="895">
 <img src="/images/Screenshot1.png" width="1920" height="895">
